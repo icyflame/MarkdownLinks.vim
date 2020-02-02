@@ -3,6 +3,8 @@
 > Create markdown links without having to type the template text every single
 > time
 
+[![asciicast](https://asciinema.org/a/297275.svg)](https://asciinema.org/a/297275)
+
 ## Installation
 
 ### Vundle
